@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<network_definition>
+  
+  <batch_size>
+    64
+  </batch_size>
+  
+  <epoch_num>
+    10
+  </epoch_num>
+
+  <gradient_method>
+    sgd
+  </gradient_method>
+  
+  <learning_rate>
+    1.0
+  </learning_rate>
+
+  <loss_function>
+    square
+  </loss_function>
+  
+  <input_size>
+    28,28
+  </input_size>
+
+  <image_channels>
+    1
+  </image_channels>
+
+  <class_num>
+    10
+  </class_num>
+  
+</network_definition>
