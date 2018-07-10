@@ -1,4 +1,6 @@
-# LinNet
+LinNet
+
+![](icon.jpg)
 
 Light Intuitive Neural Network - CNN C++练习
 
